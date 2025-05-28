@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1748425351,
+	"version": 1748426777,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -118,6 +118,7 @@
 		"images/tgrakbuku-sheet0.png",
 		"images/drfriren-sheet0.png",
 		"images/sprite27-sheet0.png",
+		"images/sprite41-sheet0.png",
 		"images/itemkucing-sheet0.png",
 		"images/belakangkucing-sheet0.png",
 		"images/hudkanan-sheet0.png",

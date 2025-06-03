@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1748922316,
+	"version": 1748938470,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -224,7 +224,7 @@
 		"images/tiledbackground2.png",
 		"images/portal-sheet0.png",
 		"images/tilemap21.png",
-		"images/sprite43-sheet0.png",
+		"images/reset-sheet0.png",
 		"images/portal1-sheet0.png",
 		"images/portal1-sheet1.png",
 		"images/space_backround-sheet0.png",
@@ -240,6 +240,8 @@
 		"images/particles2.png",
 		"images/spacem-sheet0.png",
 		"images/keluarmain-sheet0.png",
+		"images/sprite52-sheet0.png",
+		"images/kekyboard-sheet0.png",
 		"images/blagu-sheet0.png",
 		"images/locatekakek-sheet0.png",
 		"images/base-sheet0.png",

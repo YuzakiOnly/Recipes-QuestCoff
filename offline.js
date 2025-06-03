@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1748938470,
+	"version": 1748953490,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -238,8 +238,11 @@
 		"images/batu-sheet1.png",
 		"images/spawnner-sheet0.png",
 		"images/particles2.png",
+		"images/carm-sheet0.png",
+		"images/skobanm-sheet0.png",
 		"images/spacem-sheet0.png",
 		"images/keluarmain-sheet0.png",
+		"images/sprite22-sheet0.png",
 		"images/sprite52-sheet0.png",
 		"images/kekyboard-sheet0.png",
 		"images/blagu-sheet0.png",
@@ -268,6 +271,7 @@
 		"media/mesin2.ogg",
 		"media/ledakan.ogg",
 		"media/portal.ogg",
+		"media/homeminigame.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",

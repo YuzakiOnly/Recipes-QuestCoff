@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749132520,
+	"version": 1749216042,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,7 @@
 		"images/transisi2-sheet0.png",
 		"images/logotrans2-sheet0.png",
 		"images/logotrans1-sheet0.png",
+		"images/detecmobile-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite2-sheet1.png",
 		"images/sprite3-sheet0.png",
@@ -72,6 +73,7 @@
 		"images/masuktoko-sheet0.png",
 		"images/tgend-sheet0.png",
 		"images/tgnina-sheet0.png",
+		"images/skiplay-sheet0.png",
 		"images/home-sheet0.png",
 		"images/kpldesa-sheet0.png",
 		"images/sprite14-sheet0.png",
@@ -116,7 +118,7 @@
 		"images/interior1.png",
 		"images/keluarruang-sheet0.png",
 		"images/tgrakbuku-sheet0.png",
-		"images/tapr-sheet0.png",
+		"images/tapdialog-sheet0.png",
 		"images/drfriren-sheet0.png",
 		"images/sprite27-sheet0.png",
 		"images/sprite41-sheet0.png",
